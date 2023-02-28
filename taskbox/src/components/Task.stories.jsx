@@ -13,7 +13,7 @@ export const Default = Template.bind({});
 Default.args = {
     task: {
         id: '1',
-        title: 'Test Task',
+        title: 'Leo Messi is the Best',
         state: 'TASK_INBOX',
       },
 };
